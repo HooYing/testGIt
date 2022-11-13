@@ -1,3 +1,3 @@
 test
 test1
-test->brach:master
+test->branch:test
